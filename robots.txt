@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ansasane.github.io/sitemap.html.gz
+Sitemap: https://ansasane.github.io/app/sitemap.html.gz
+Sitemap: https://ansasane.github.io/assets/sitemap.html.gz
+Sitemap: https://ansasane.github.io/css/sitemap.html.gz
+Sitemap: https://ansasane.github.io/includes/sitemap.html.gz
+Sitemap: https://ansasane.github.io/item/sitemap.html.gz
+Sitemap: https://ansasane.github.io/src/sitemap.html.gz
